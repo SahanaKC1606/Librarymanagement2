@@ -9,8 +9,6 @@ To practice **inserting**, **updating**, and **deleting** data in SQL tables. Th
 
 ## 🛠️ Tools Used
 - MySQL Workbench  
-- DB Fiddle / SQLiteStudio (alternatives)
-- SQL (DDL & DML)
 ---
 
 ## Database Tables Involved
